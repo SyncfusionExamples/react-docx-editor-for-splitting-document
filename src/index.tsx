@@ -248,7 +248,7 @@ const SplitDocument = () => {
 
     return (
         <div style={{ height: "80px" }}>
-            <h1>Split documents (SFDT or DOCX) by bookmark or heading using the Syncfusion React Document Editor</h1>
+            <h1>Split Word Document by Bookmarks and Headings - DOCX Editor</h1>
         <div className="control-pane">
             <div className="control-section" style={{  display: "flex" }}>
                 <div className="control-section" style={{  width: "80%", position: "relative", paddingRight: "15px", paddingLeft: "15px" }}>

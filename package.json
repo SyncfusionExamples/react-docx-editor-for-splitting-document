@@ -3,28 +3,29 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4",
+    "@syncfusion/ej2-base": "^34.1.33",
+    "@syncfusion/ej2-buttons": "^34.1.33",
+    "@syncfusion/ej2-documenteditor": "^34.1.33",
+    "@syncfusion/ej2-lists": "^34.1.33",
+    "@syncfusion/ej2-navigations": "^34.1.33",
+    "@syncfusion/ej2-popups": "^34.1.33",
+    "@syncfusion/ej2-react-base": "^34.1.33",
+    "@syncfusion/ej2-react-buttons": "^34.1.33",
+    "@syncfusion/ej2-react-documenteditor": "^34.1.33",
+    "@syncfusion/ej2-react-lists": "^34.1.33",
+    "@syncfusion/ej2-react-navigations": "^34.1.33",
+    "@syncfusion/ej2-react-popups": "^34.1.33",
+    "@syncfusion/ej2-splitbuttons": "^34.1.33",
+    "@syncfusion/ej2-tailwind3-theme": "^35.1.41",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.126",
     "@types/react": "^19.1.6",
     "@types/react-dom": "^19.1.5",
-    "@syncfusion/ej2-base": "^34.1.33",
-    "@syncfusion/ej2-react-base": "^34.1.33",
-    "@syncfusion/ej2-documenteditor": "^34.1.33",
-    "@syncfusion/ej2-react-documenteditor": "^34.1.33",
-    "@syncfusion/ej2-popups": "^34.1.33",
-    "@syncfusion/ej2-react-popups": "^34.1.33",
-    "@syncfusion/ej2-navigations": "^34.1.33",
-    "@syncfusion/ej2-react-navigations": "^34.1.33",
-    "@syncfusion/ej2-lists": "^34.1.33",
-    "@syncfusion/ej2-react-lists": "^34.1.33",
-    "@syncfusion/ej2-react-buttons": "^34.1.33",
-    "@syncfusion/ej2-buttons": "^34.1.33",
-    "@syncfusion/ej2-splitbuttons": "^34.1.33"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,7 +34,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-  "react-scripts": "latest"
+    "react-scripts": "latest"
   },
   "browserslist": {
     "production": [

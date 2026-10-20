@@ -1,4 +1,4 @@
-# React DOCX Editor – Split Word Document by Bookmarks and Headings
+# Split Word Document by Bookmarks and Headings - React DOCX Editor
 
 ## Introduction
 This sample demonstrates how to split a SFDT or DOCX document into multiple documents based on **Bookmarks** or **Headings** using the Syncfusion<sup style="font-size:70%">&reg;</sup> [React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor).
@@ -118,7 +118,7 @@ The sample performs the following steps:
 ## Demo
 <p align="center">
   <img
-    src="asset/Split-bookmark-heading-react-docx-editor.gif"
+    src="images/Split-bookmark-heading-react-docx-editor.gif"
     alt="React DOCX Editor Split the Document Demo"
     width="1000" />
 </p>
@@ -182,4 +182,4 @@ Request new feature through [Syncfusion® feedback portal](https://www.syncfusi
 
 # License
 
-This is a commercial product and requires a paid license for possession or use Syncfusion's licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/license/studio/34.1.29/syncfusion_essential_studio_eula.pdf?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) or start a free 30\-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). 
+This is a commercial product and requires a paid license for possession or use Syncfusion's licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/license/studio/syncfusion_essential_studio_eula.pdf?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) or start a free 30\-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). 
